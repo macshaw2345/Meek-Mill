@@ -1,0 +1,815 @@
+
+<html>
+<title>Meek Mill</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<style>
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", comic;}
+</style>
+<body class="w3-content" style="max-width:1500px">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:200px" id="mySidebar">
+  <div class="w3-container w3-display-container w3-padding-16">
+    <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
+    <h3 class="w3-wide"><b>CHEKZZ</b></h3>
+  </div>
+    <div class="w3-padding-100 w3-large w3-text-grey" style="font-weight:bold" colorname="black">
+  <a onclick="myAccFunc()" href="javascript:void(0)" class="w3-button w3-block w3-white w3-left-align" id="myBtn">
+     Entertainment<i class="fa fa-caret-down"></i>  
+    </a>
+    </a>
+    <div id="demoAcc" class="w3-bar-block w3-hide w3-padding-large w3-medium">
+      <a href="#" class="w3-bar-item w3-button w3-light-grey"><i class="fa fa-caret-right w3-margin-right">MUSIC</a>
+      <a href="#" class="w3-bar-item w3-button">POLTICS</a>
+      <a href="#" class="w3-bar-item w3-button">SPORTS</a>
+      <a href="#" class="w3-bar-item w3-button">MONEY</a>
+      <a href="#" class="w3-bar-item w3-button">Fashion</a>
+    </div>
+    <a href="#" class="w3-bar-item w3-button">MICHEKZZ COMING SOON</a>
+    <a href="#" class="w3-bar-item w3-button">ADCHEKZZ COMING SOON</a>
+    <a href="#" class="w3-bar-item w3-button">SPOTCHEKZZ COMING SOON</a>
+  </div>
+  <a href="#footer" class="w3-bar-item w3-button w3-padding">Contact</a> 
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding" onclick="document.getElementById('newsletter').style.display='block'">Newsletter</a> 
+  <a href="#footer"  class="w3-bar-item w3-button w3-padding">Subscribe</a>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-bar w3-top w3-hide-large w3-grey w3-xlarge">
+  <div class="w3-bar-item w3-padding-24 w3-wide">LOGO</div>
+  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-left" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:220px">
+
+  <!-- Push down content on small screens -->
+  <div class="w3-hide-large" style="margin-top:100px"></div>
+  
+
+
+  
+
+<body class="w3-black">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1350px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+
+      <div class="w3-white w3-text-grey w3-card-4">
+         <div class="w3-display-container">
+    <div class="card">
+  <img src="https://media.gettyimages.com/photos/meek-mill-attends-the-4th-annual-tidal-x-brooklyn-at-barclays-center-picture-id1052856142" alt="Meek Mill" style="width:100%">
+  <p class="title"><font color="black">Meek Mill</h1></font>
+  <p class="title"><font color="black">Rapper</p></font>
+  <p><font color="black">Philly</p></font>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-phone"></i></a> 
+    <a href="#"><i class="fa fa-twitter"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    <a href="#"><i class="fa fa-facebook"></i></a> 
+  </div>
+  <p><button>Contact</button></p>
+</div>
+
+         <button class="collapsible">Rocnation Roster</button>
+<div class="content"> 
+          <p></p>
+          <div class="w3-light-black w3-round-xlarge w3-small">
+          </div>
+          <a href="file:///Applications/jay-z%20chekzz%20page.html" target="_blank">
+                  
+              <img src="https://media.gettyimages.com/photos/jayz-performs-on-stage-during-the-on-the-run-ii-tour-with-beyonce-at-picture-id970624976?s=2048x2048 " class="center" height="250" width="250">
+             <div class="a">
+            <p>Jay-Z</p>
+         </div>
+          </a>
+          <a href="file:///Applications/Meek%20Mill%20Chekzz.html" target="_blank">
+          <img src="https://media.gettyimages.com/photos/meek-mill-attends-the-4th-annual-tidal-x-brooklyn-at-barclays-center-picture-id1052856142" width="250" height="250">
+                    <div class="a">
+          <p>Meek Mill</p>
+          </div>
+        </a>
+        <a href="file:///Applications/Roc%20nation%20rappers%20updated%20chekzz.html" target="_blank">
+          <img src="https://media.gettyimages.com/photos/rihanna-attends-the-fenty-beauty-by-rihanna-anniversary-event-at-picture-id1045060208" width="250" height="250">
+                    <div class="a">
+          <p>Rihanna</p>
+          </div>
+        </a>
+          
+</div>
+</a>
+          <br>
+          <br>
+
+          <button class="collapsible">Adchekzz</button>
+<div class="content"> 
+          <p></p>
+          <img Src="http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=50&h=50 " height="50" width="50">
+          <div class="w3-light-black w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:24px;width:97%">97% Rating</div>
+          </div>
+          <p>LeBron James</p>
+          <img src=" http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=50&h=50" width="50" height="50">
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-red" style="height:24px;width:99%">99% Rating</div>
+          </div>
+          <p>Gordan Hayward</p>
+          <img src=" http://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4249.png&w=50&h=50" height="50" width="50">
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-green" style="height:24px;width:87%">87% Rating</div>
+          </div>
+        </a>
+        </div>
+    
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+  
+      
+        <div class="w3-container">
+         <style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+</style>
+           <style>
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+</style>
+</head>
+
+<style>
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;    
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th 
+}
+
+</style>
+</head>
+
+
+  <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 300px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+  z-index: 2;
+}
+
+.flip-card-back {
+  background-color: black;
+  color: white;
+  transform: rotateY(180deg);
+  z-index: 1;
+}
+</style>
+
+        <div class="w3-container">
+         
+      <style>
+table, th, td {
+    border: 3px white
+    border-collapse: collapse;
+}
+th, td {
+    padding: 3px;
+    text-align: left;    
+
+
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th 
+}
+
+</style>
+</head>
+<style> @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sixTopicsContainer {
+  max-width: 750px;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBanner {
+  width: 100%;
+  height: auto;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  overflow: hidden;
+}
+
+.sixTopicsWrapper {
+  max-width: 750px;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.sixTopicsBoxes {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: wrap;
+  -webkit-flex-flow: wrap;
+  justify-content: space-around;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.sixTopicsBox {
+  position: relative;
+  display: block;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.sixTopicsBox img {
+  margin: 10px;
+  padding: 0;
+}
+
+.sixTopicsBox p {
+  position: absolute;
+  bottom: 25%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.sixTopicsBox:hover {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.sixTopicsTech {
+  max-width: 730px;
+  background: #492365;
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1em;
+  text-align: center;
+  border-top: 10px solid #7f56c5;
+}</style>
+<style>
+marquee {
+   
+   font: 30px  Helvetica, Verdana, sans-serif;
+   font-weight:bold ;
+   background-color: white;
+    
+}
+ </style>
+ 
+      
+<style>
+marquee {
+   
+   font: 30px  Helvetica, Verdana, sans-serif;
+   font-weight:bold ;
+   background-color: white;
+    
+}
+ </style>
+ <style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+
+      
+ <style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+</style>
+</head>
+<body>
+    <div class="w3-container">
+           <body>
+     
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-ball fa-fw w3-margin-right w3-text-black"></i>
+  <div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+  <button class="btn" onclick="filterSelection('People')">People</button>
+  <button class="btn" onclick="filterSelection('Social')">  Social Media</button>
+  <button class="btn" onclick="filterSelection('News')">  News/Analysis</button>
+    <button class="btn" onclick="filterSelection('Products')">Products/Music</button>
+</div>
+</b>
+</a>
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th colspan="2"></th>
+  </tr>
+  <tr>
+    <td>
+  <div class="column Products">
+<div class="tidal-embed" data-type="a" data-id="105411599" style="width:300px;height:300px"></div>
+<script src="https://embed.tidal.com/tidal-embed.js"></script>
+    </div>
+</div>
+</td>
+ <td>
+  
+  <div class="column Products">
+<div class="tidal-embed" data-type="a" data-id="99796339" style="width:300px;height:300px"></div>
+<script src="https://embed.tidal.com/tidal-embed.js"></script>
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+<tr>
+    <td>
+  <div class="column Social">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love all females <a href="https://t.co/wwm7hCNiRg">https://t.co/wwm7hCNiRg</a></p>&mdash; Meek Mill (@MeekMill) <a href="https://twitter.com/MeekMill/status/1140148798343266304?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+    </div>
+  
+  </div>
+</div>
+</td>
+ <td>
+  
+  <div class="column Social">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Major figgas and state prop <a href="https://t.co/k1ZMLO55c6">https://t.co/k1ZMLO55c6</a></p>&mdash; Meek Mill (@MeekMill) <a href="https://twitter.com/MeekMill/status/1140148067636826112?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+  
+<tr>
+    <td>
+  <div class="column Social">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">24/7 <a href="https://t.co/YeEZ0yUdDA">https://t.co/YeEZ0yUdDA</a></p>&mdash; Meek Mill (@MeekMill) <a href="https://twitter.com/MeekMill/status/1140147928872472577?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+    </div>
+  
+  </div>
+</div>
+</td>
+ <td>
+  
+  <div class="column Social">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everything I see lol these guys are ruthless 😂😂 <a href="https://t.co/ZCLH7MzMzf">https://t.co/ZCLH7MzMzf</a></p>&mdash; Meek Mill (@MeekMill) <a href="https://twitter.com/MeekMill/status/1140147825826783232?ref_src=twsrc%5Etfw">June 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+<tr>
+    <td>
+  <div class="column News">
+       <a href="https://uproxx.com/hiphop/meek-mill-warriors-bet-200k/" target="_blank">
+      <img src="https://uproxx.files.wordpress.com/2019/06/meek-mill-jpg-30.jpeg?quality=100" alt="Avatar" style="width:300px;height:300px;">
+        <p>Meek Mill Lost $200,000 Betting On The Warriors To Win Game 6</p>
+<p>via Uproxx</p><a href="" target="_blank"></a>
+    </div>
+  
+  </div>
+</div>
+</td>
+ <td>
+  
+  <div class="column News">
+      <a href="https://www.washingtonpost.com/sports/2019/04/27/ers-owner-says-judge-wont-let-meek-mill-watch-nba-playoffs-toronto/?noredirect=on&utm_term=.e998ba57437a" target="_blank">
+      <img src="https://www.washingtonpost.com/resizer/4r7A96FK11AzrEPwr5F4mCIG8CI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJIO7VWK54I6PNIGRIIO2EPM6U.jpg" alt="Avatar" style="width:300px;height:300px;">
+      <p>
+76ers co-owner says judge won’t let Meek Mill watch NBA playoffs in Toronto
+<p>via Washington Post</p>
+</p> <a href="https://www.washingtonpost.com/sports/2019/04/27/ers-owner-says-judge-wont-let-meek-mill-watch-nba-playoffs-toronto/?noredirect=on&utm_term=.e998ba57437a" target="_blank">
+    </div>
+  </div>
+</div>
+</td>
+</tr>
+
+
+
+</body>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
+
+      
+ 
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+    </td>
+    
+  </tr>
+</table>
+
+
+  <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Arial;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 10px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    display: none; /* Hide all elements by default */
+}
+
+/* Clear floats after rows */ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+
+
+  <!-- End page content -->
+</div>
+ <script>
+// Accordion 
+function myAccFunc() {
+    var x = document.getElementById("demoAcc");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// Click on the "Jeans" link on page load to open the accordion for demo purposes
+document.getElementById("myBtn").click();
+
+
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+
+
+</body>
+</html>
+
+
+</body>
+</html>
